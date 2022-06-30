@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactsinglepageaws8eada966": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2qlt5zul21g30",
+          "type": "manual"
+        }
       }
     }
   }
