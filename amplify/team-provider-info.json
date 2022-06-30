@@ -10,6 +10,11 @@
       "StackName": "amplify-reactsinglepageaws-dev-183537",
       "StackId": "arn:aws:cloudformation:us-east-1:916181971224:stack/amplify-reactsinglepageaws-dev-183537/cdb584c0-f7fb-11ec-b73e-0ecca500c90d",
       "AmplifyAppId": "d2qlt5zul21g30"
+    },
+    "categories": {
+      "auth": {
+        "reactsinglepageaws8eada966": {}
+      }
     }
   }
 }
